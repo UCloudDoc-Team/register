@@ -1,4 +1,3 @@
-<div class="sidebar_title"> 账号注册</div>
 
 * [概览](/register/README)
 * [注册流程](/register/register_flow)
