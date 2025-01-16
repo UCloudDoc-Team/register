@@ -21,7 +21,7 @@
 3.注册成功，请使用注册时的邮箱和密码，或者手机号，登录UCloud控制台。
  
  
-## 子账号注册
+## 邀请子账号
 1. 主账号登录控制台，点击右上角的访问控制         
 ![image](https://github.com/user-attachments/assets/a67970db-9299-4a5e-ba0e-b3ac7505844b)
 
@@ -43,4 +43,4 @@
 - 设置子账号密码。密码须包含有大小写字母、数字、符号中的两种，密码长度为6-20个字符
 ![image](https://github.com/user-attachments/assets/a7069436-cf53-4644-9571-4f6517c9a4c0)
 
-6.子账号注册完成
+6.子账号邀请完成。
