@@ -12,7 +12,7 @@
   - 输入手机号并提交验证码         
 ![image](images/register2.png)
   - 邮箱注册成功，UCloud会发送一封邮件到注册邮箱，请点击邮件内的链接进行激活。该邮箱账号将作为UCloud登录账号
-<img width="888" alt="image" src="images/register3.png" />
+![image](images/register3.png)
 
 - 手机号注册
   - 请输入手机号和验证码                
@@ -36,7 +36,7 @@
 ![image](images/register8.png)
 
 4.子账号用户点击邮件内的链接进行激活
-<img width="871" alt="image" src="images/register9.png" />
+![image](images/register9.png)
 
 5.激活子账号
 - 输入子账号手机号、验证码
