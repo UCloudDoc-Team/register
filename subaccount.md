@@ -8,13 +8,10 @@
 
 #### 如何创建子账号
 
-1.使用主账号进入访问控制-用户管理，点击邀请子用户<img width="1373" alt="image" src="https://user-images.githubusercontent.com/107971405/234496487-2e476503-1704-4209-8eea-342bcfeda74a.png">
-
+1.使用主账号进入访问控制-用户管理，点击邀请子用户
+![image](images/user1.png)
 2.填写子账号相关信息并提交  
-<img width="695" alt="image" src="https://user-images.githubusercontent.com/107971405/234496195-9e858f4c-d5d4-4715-a3d2-9c52589a63fb.png"> 
-
-3.通知子账号收取激活邮件，激活账号。  
-<img width="691" alt="image" src="https://user-images.githubusercontent.com/107971405/234498448-0ab24a77-1dd7-4c33-9a48-c3b50a12f704.png">
+![image](images/user2.png)
 
 
 
