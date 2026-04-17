@@ -43,7 +43,7 @@
 
 ### 5.1 用户组授权
 
-用户组是一组权限集合，主账号可预设用户组并批量授权给子账号。
+用户组是一组权限集合，主账号可预设用户组并授权给子账号。
 <img width="1164" alt="image" src="https://user-images.githubusercontent.com/107971405/234497826-9fc244bd-6c1c-4ff5-af46-4881ae4c4f68.png">
 
 ### 5.2 精细化权限授权
