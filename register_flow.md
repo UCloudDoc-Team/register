@@ -21,26 +21,22 @@
 3.注册成功，请使用注册时的邮箱和密码，或者手机号，登录UCloud控制台。
  
  
-## 邀请子账号
+## 邀请子用户
 1. 主账号登录控制台，点击右上角的访问控制         
 ![image](images/resgister5.png)
 
 2. 点击“用户管理”，点击“邀请子用户”
 ![image](images/register6.png)
 
-3.填写子账号信息
-- 选择子账号访问方式
-- 填写子账号邮箱、用户名、昵称（选填）
-![image](images/register7.png)
-- 显示邀请成功。请通知子账号查收邮件并点击邮件内的链接进行激活。
-![image](images/register8.png)
+3.填写子用户信息
+- 选择子用户访问方式
+- 填写子用户用户名、昵称（选填）、登录设置
+![image](images/user2.png)
 
-4.子账号用户点击邮件内的链接进行激活
-![image](images/register9.png)
 
-5.激活子账号
-- 输入子账号手机号、验证码
-- 设置子账号密码。密码须包含有大小写字母、数字、符号中的两种，密码长度为6-20个字符
-![image](images/register10.png)
+4.邀请完成，将登录信息复制发给子用户
+![image](images/sucess.png)
 
-6.子账号邀请完成。
+5.子用户通过快捷登录链接进行登录
+![image](images/sucess.png)
+
