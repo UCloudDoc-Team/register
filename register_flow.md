@@ -38,5 +38,5 @@
 ![image](images/sucess.png)
 
 5.子用户通过快捷登录链接进行登录
-![image](images/sucess.png)
+![image](images/login.png)
 
